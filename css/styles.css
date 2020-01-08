@@ -4,6 +4,7 @@ body{
 
 img{
   float: right;
+  padding: 30px;
 }
 .sidebar{
 border: 3px solid black;
