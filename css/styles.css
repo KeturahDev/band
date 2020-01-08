@@ -1,0 +1,15 @@
+body{
+  background-image: linear-gradient(to right top, #02070e, #37393c, #6c6c6f, #a5a5a7, #e2e2e2);
+}
+
+img{
+  float: right;
+}
+.sidebar{
+  width: 30%;
+  float: right;
+  background-color: grey;
+}
+li{
+  list-style-type: none;
+}
