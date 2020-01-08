@@ -6,6 +6,9 @@ img{
   float: right;
 }
 .sidebar{
+border: 3px solid black;
+  margin: 20px;
+  padding: 20px;
   width: 30%;
   float: right;
   background-color: grey;
