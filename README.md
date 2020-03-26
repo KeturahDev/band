@@ -3,10 +3,10 @@ By Keturah Howard
 
 ## Description
 
-an unodicial band website, made with the purpose of practicing css styling.
+an unofficial band website, made with the purpose of practicing css styling.
 
 ## Set Up 
-  To set up you can simply interact with the webpage by clicking [here](dhfld) to access the gh-pages for this repository. Or! to view the code and all that jazz, follow the steps bellow. 
+  To view the code and launch the program, follow the steps bellow. 
   1. Click on the *clone or download* button of this repository. Copy the link that pops up.
   2. Navigate to your terminal, where you have previously installed git (if you have not done this yet, go ahead and do so now).
   3. In terminal, change your directory to desktop, and then type **"git clone "** and then paste the link you copied from the repository page.
